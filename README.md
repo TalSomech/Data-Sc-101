@@ -1,4 +1,4 @@
-
+![AI_1](https://user-images.githubusercontent.com/73115681/109007498-dbdfcc00-76b4-11eb-9b63-3408aea323ac.jpg)
 
 # Data-Sc-101
 This repository is used for my final project in my intro to Data Science class.
